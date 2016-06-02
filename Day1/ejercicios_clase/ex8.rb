@@ -1,0 +1,1 @@
+puts ["casa", "masa", "pepino"].grep(/as/)
